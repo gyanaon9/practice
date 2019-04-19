@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+<parameter name="username" value="gyanaranjan.grs9@gmail.com"/>
+<parameter name="psw" value="88688"/>
+
+<classes>
+      <class name="InterviewR.Parametrization"/>
+    </classes>
+
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+
+
+
+
+
+
+
